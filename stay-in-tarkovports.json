@@ -1,0 +1,30 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": "6970",
+        "Name": "TCP Relay Websocket",
+        "Description": "Port used for main game traffic",
+        "Ref": "TCPRelayWebsocket"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "6971",
+        "Name": "TCP NAT Helper Websocket",
+        "Description": "Port used for main game traffic",
+        "Ref": "TCPNATHelperWebsocket"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "6972",
+        "Name": "UPNP 1",
+        "Description": "Port used for main game traffic",
+        "Ref": "UPNP1"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "6969",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    }
+]
