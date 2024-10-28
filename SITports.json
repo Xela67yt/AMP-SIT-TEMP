@@ -2,29 +2,29 @@
     {
         "Protocol": "Both",
         "Port": "6970",
-        "Name": "",
+        "Name": "TCP1",
         "Description": "Port used for main game traffic",
-        "Ref": ""
+        "Ref": "TCP1"
     },
     {
         "Protocol": "Both",
         "Port": "6971",
-        "Name": "",
+        "Name": "TCP2",
         "Description": "Port used for main game traffic",
-        "Ref": ""
+        "Ref": "TCP2"
     },
     {
         "Protocol": "Both",
         "Port": "6969",
-        "Name": "",
+        "Name": "Gameport",
         "Description": "Port used for main game traffic",
         "Ref": "ServerPort"
     },
     {
         "Protocol": "Both",
         "Port": "6972",
-        "Name": "",
+        "Name": "TCP3",
         "Description": "Port used for main game traffic",
-        "Ref": ""
+        "Ref": "TCP3"
     }
 ]
